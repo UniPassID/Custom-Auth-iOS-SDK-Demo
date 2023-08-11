@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D9867FB8-0643-47A0-830A-AD091910F267"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A340BDFD-E2F7-4ACB-A95D-53FEBD0F424E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Library/Developer/Xcode/DerivedData/ios-sdk-demo-gsdezhdoxblsetdavoumyhsvmlxr/SourcePackages/checkouts/ios-custom-auth-sdk/Sources/ios-custom-auth-auth-sdk/SmartAccount.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "signMessage(message:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A340BDFD-E2F7-4ACB-A95D-53FEBD0F424E - 37191fe15a50c9a3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ios_custom_auth_auth_sdk.SmartAccount.signMessage(message: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "ios-sdk-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zz/Library/Developer/Xcode/DerivedData/ios-sdk-demo-gsdezhdoxblsetdavoumyhsvmlxr/SourcePackages/checkouts/ios-custom-auth-sdk/Sources/ios-custom-auth-auth-sdk/SmartAccount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "A340BDFD-E2F7-4ACB-A95D-53FEBD0F424E - d587ebfb4ed1f687"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for ios_custom_auth_auth_sdk.SmartAccount.signMessage(message: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "ios-sdk-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zz/Library/Developer/Xcode/DerivedData/ios-sdk-demo-gsdezhdoxblsetdavoumyhsvmlxr/SourcePackages/checkouts/ios-custom-auth-sdk/Sources/ios-custom-auth-auth-sdk/SmartAccount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "A340BDFD-E2F7-4ACB-A95D-53FEBD0F424E - ff447879683635a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ios_custom_auth_auth_sdk.SmartAccount.signMessage(message: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "ios-sdk-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zz/Library/Developer/Xcode/DerivedData/ios-sdk-demo-gsdezhdoxblsetdavoumyhsvmlxr/SourcePackages/checkouts/ios-custom-auth-sdk/Sources/ios-custom-auth-auth-sdk/SmartAccount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "A340BDFD-E2F7-4ACB-A95D-53FEBD0F424E - 5bad34c500dab7a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for ios_custom_auth_auth_sdk.SmartAccount.signMessage(message: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "ios-sdk-demo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zz/Library/Developer/Xcode/DerivedData/ios-sdk-demo-gsdezhdoxblsetdavoumyhsvmlxr/SourcePackages/checkouts/ios-custom-auth-sdk/Sources/ios-custom-auth-auth-sdk/SmartAccount.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "758A4178-9978-4F35-9E0F-C0BDD3A7ACD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ios-sdk-demo/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
