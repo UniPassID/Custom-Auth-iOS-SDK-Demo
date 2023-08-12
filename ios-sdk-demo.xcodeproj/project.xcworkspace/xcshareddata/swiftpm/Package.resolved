@@ -23,8 +23,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/UniPassID/ios-custom-auth-sdk.git",
       "state" : {
-        "revision" : "5c256a5ba6bcf3af2123a9d6767d9f87ef51c41b",
-        "version" : "0.0.1-alpha.15"
+        "revision" : "c0fecc3e502a04e6b271d7d7de1944782568fe78",
+        "version" : "0.0.1-alpha.16"
       }
     },
     {
@@ -59,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-log.git",
       "state" : {
-        "revision" : "32e8d724467f8fe623624570367e3d50c5638e46",
-        "version" : "1.5.2"
+        "revision" : "532d8b529501fb73a2455b179e0bbb6d49b652ed",
+        "version" : "1.5.3"
       }
     },
     {
@@ -95,8 +95,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-nio-transport-services.git",
       "state" : {
-        "revision" : "5fd1458c245d5741b3c8ebe55489f590c6ca8f15",
-        "version" : "1.18.0"
+        "revision" : "e7403c35ca6bb539a7ca353b91cc2d8ec0362d58",
+        "version" : "1.19.0"
       }
     },
     {
